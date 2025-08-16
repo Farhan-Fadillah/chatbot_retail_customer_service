@@ -4,6 +4,9 @@
 
 Chatbot Customer Service Retail yang cerdas dan responsif menggunakan teknologi AI terdepan dari Google Gemini. Chatbot ini dirancang untuk memberikan layanan customer service 24/7 yang profesional, ramah, dan sangat membantu untuk bisnis retail.
 
+Link Chatbot:
+https://chatbot-retail.streamlit.app/
+
 ## Fitur Utama
 
 - **🤖 AI-Powered**: Menggunakan Google Gemini AI untuk layanan customer service yang cerdas
@@ -267,3 +270,4 @@ Jika mengalami masalah atau memiliki pertanyaan:
 **🛍️ Customer Service Retail - Powered by Google Gemini AI** 🚀
 
 *Melayani customer 24/7 dengan teknologi AI terdepan*
+
